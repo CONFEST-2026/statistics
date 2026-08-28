@@ -1,0 +1,2096 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "city": "",
+        "country_code": "NL",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9187,
+          57.048
+        ]
+      },
+      "properties": {
+        "city": "Aalborg",
+        "country_code": "DK",
+        "n_participants": 6,
+        "n_plane": 5,
+        "n_train": 1,
+        "fraction_flying": 0.833,
+        "color": "#d4002a",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "QEST+FORMATS": {
+            "n_participants": 3,
+            "n_plane": 3,
+            "n_train": 0
+          },
+          "Workshops": {
+            "n_participants": 2,
+            "n_plane": 1,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9187,
+          57.048
+        ]
+      },
+      "properties": {
+        "city": "Aalborg Denmark",
+        "country_code": "DK",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2108,
+          56.1567
+        ]
+      },
+      "properties": {
+        "city": "Aarhus",
+        "country_code": "DK",
+        "n_participants": 3,
+        "n_plane": 3,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.648,
+          42.0267
+        ]
+      },
+      "properties": {
+        "city": "Ames",
+        "country_code": "US",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8897,
+          52.374
+        ]
+      },
+      "properties": {
+        "city": "Amsterdam",
+        "country_code": "NL",
+        "n_participants": 2,
+        "n_plane": 2,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3972,
+          39.9075
+        ]
+      },
+      "properties": {
+        "city": "Beijing",
+        "country_code": "CN",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4105,
+          52.5244
+        ]
+      },
+      "properties": {
+        "city": "Berlin",
+        "country_code": "DE",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0182,
+          47.2488
+        ]
+      },
+      "properties": {
+        "city": "Besan\u00e7on",
+        "country_code": "FR",
+        "n_participants": 2,
+        "n_plane": 0,
+        "n_train": 2,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 0,
+            "n_train": 2
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8998,
+          52.4814
+        ]
+      },
+      "properties": {
+        "city": "Birmingham",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3387,
+          44.4938
+        ]
+      },
+      "properties": {
+        "city": "Bologna",
+        "country_code": "IT",
+        "n_participants": 2,
+        "n_plane": 2,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5805,
+          44.8412
+        ]
+      },
+      "properties": {
+        "city": "Bordeaux",
+        "country_code": "FR",
+        "n_participants": 2,
+        "n_plane": 0,
+        "n_train": 2,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 0,
+            "n_train": 2
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2706,
+          40.015
+        ]
+      },
+      "properties": {
+        "city": "Boulder",
+        "country_code": "US",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.214,
+          53.143
+        ]
+      },
+      "properties": {
+        "city": "Bremen",
+        "country_code": "DE",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1395,
+          50.8284
+        ]
+      },
+      "properties": {
+        "city": "Brighton",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0281,
+          -27.4679
+        ]
+      },
+      "properties": {
+        "city": "Brisbane",
+        "country_code": "AU",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3488,
+          50.8505
+        ]
+      },
+      "properties": {
+        "city": "Brussels",
+        "country_code": "BE",
+        "n_participants": 2,
+        "n_plane": 2,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "Workshops": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9208,
+          45.5663
+        ]
+      },
+      "properties": {
+        "city": "Chamb\u00e9ry",
+        "country_code": "FR",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      },
+      "properties": {
+        "city": "Chicago",
+        "country_code": "US",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5122,
+          52.4066
+        ]
+      },
+      "properties": {
+        "city": "Coventry",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1888,
+          -31.4201
+        ]
+      },
+      "properties": {
+        "city": "C\u00f3rdoba",
+        "country_code": "AR",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3556,
+          52.0067
+        ]
+      },
+      "properties": {
+        "city": "Delft",
+        "country_code": "NL",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466,
+          51.5149
+        ]
+      },
+      "properties": {
+        "city": "Dortmund",
+        "country_code": "DE",
+        "n_participants": 2,
+        "n_plane": 1,
+        "n_train": 1,
+        "fraction_flying": 0.5,
+        "color": "#800080",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          },
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7383,
+          51.0509
+        ]
+      },
+      "properties": {
+        "city": "Dresden",
+        "country_code": "DE",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7793,
+          51.2232
+        ]
+      },
+      "properties": {
+        "city": "D\u00fcsseldorf",
+        "country_code": "DE",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1965,
+          55.9521
+        ]
+      },
+      "properties": {
+        "city": "Edinburgh",
+        "country_code": "GB",
+        "n_participants": 2,
+        "n_plane": 0,
+        "n_train": 2,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          },
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4778,
+          51.4408
+        ]
+      },
+      "properties": {
+        "city": "Eindhoven",
+        "country_code": "NL",
+        "n_participants": 4,
+        "n_plane": 3,
+        "n_train": 1,
+        "fraction_flying": 0.75,
+        "color": "#bf0040",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          },
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "Workshops": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8958,
+          52.2183
+        ]
+      },
+      "properties": {
+        "city": "Enschede",
+        "country_code": "NL",
+        "n_participants": 4,
+        "n_plane": 2,
+        "n_train": 2,
+        "fraction_flying": 0.5,
+        "color": "#800080",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 3,
+            "n_plane": 1,
+            "n_train": 2
+          },
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007799999999998,
+          49.591
+        ]
+      },
+      "properties": {
+        "city": "Erlangen",
+        "country_code": "DE",
+        "n_participants": 3,
+        "n_plane": 3,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 3,
+            "n_plane": 3,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2463,
+          43.7792
+        ]
+      },
+      "properties": {
+        "city": "Florence",
+        "country_code": "IT",
+        "n_participants": 4,
+        "n_plane": 4,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          },
+          "FMICS": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6842,
+          50.1155
+        ]
+      },
+      "properties": {
+        "city": "Frankfurt",
+        "country_code": "DE",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9668,
+          57.7072
+        ]
+      },
+      "properties": {
+        "city": "Gothenburg",
+        "country_code": "SE",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5667,
+          53.2192
+        ]
+      },
+      "properties": {
+        "city": "Groningen",
+        "country_code": "NL",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "Workshops": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9993,
+          32.813
+        ]
+      },
+      "properties": {
+        "city": "Haifa",
+        "country_code": "IL",
+        "n_participants": 2,
+        "n_plane": 2,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1614,
+          30.2936
+        ]
+      },
+      "properties": {
+        "city": "Hangzhou",
+        "country_code": "CN",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9354,
+          60.1695
+        ]
+      },
+      "properties": {
+        "city": "Helsinki",
+        "country_code": "FI",
+        "n_participants": 2,
+        "n_plane": 2,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8089,
+          32.1606
+        ]
+      },
+      "properties": {
+        "city": "Herzliya",
+        "country_code": "IL",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3633,
+          29.7633
+        ]
+      },
+      "properties": {
+        "city": "Houston",
+        "country_code": "US",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2163,
+          31.769
+        ]
+      },
+      "properties": {
+        "city": "Jerusalem",
+        "country_code": "IL",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4044,
+          49.0094
+        ]
+      },
+      "properties": {
+        "city": "Karlsruhe",
+        "country_code": "DE",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3252,
+          48.3052
+        ]
+      },
+      "properties": {
+        "city": "Klosterneuburg",
+        "country_code": "AT",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7538,
+          35.0211
+        ]
+      },
+      "properties": {
+        "city": "Kyoto",
+        "country_code": "JP",
+        "n_participants": 3,
+        "n_plane": 3,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1317,
+          52.6386
+        ]
+      },
+      "properties": {
+        "city": "Leicester",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1257,
+          51.508500000000005
+        ]
+      },
+      "properties": {
+        "city": "London",
+        "country_code": "GB",
+        "n_participants": 6,
+        "n_plane": 0,
+        "n_train": 6,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 2,
+            "n_plane": 0,
+            "n_train": 2
+          },
+          "Workshops": {
+            "n_participants": 3,
+            "n_plane": 0,
+            "n_train": 3
+          },
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "city": "Los Angeles",
+        "country_code": "US",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4951,
+          43.8376
+        ]
+      },
+      "properties": {
+        "city": "Lucca",
+        "country_code": "IT",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8479,
+          45.7491
+        ]
+      },
+      "properties": {
+        "city": "Lyon",
+        "country_code": "FR",
+        "n_participants": 2,
+        "n_plane": 0,
+        "n_train": 2,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 0,
+            "n_train": 2
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1937,
+          25.7743
+        ]
+      },
+      "properties": {
+        "city": "Miami",
+        "country_code": "US",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8826,
+          19.0728
+        ]
+      },
+      "properties": {
+        "city": "Mumbai",
+        "country_code": "IN",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5755,
+          48.13739999999999
+        ]
+      },
+      "properties": {
+        "city": "Munich",
+        "country_code": "DE",
+        "n_participants": 3,
+        "n_plane": 3,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          },
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.185,
+          48.6844
+        ]
+      },
+      "properties": {
+        "city": "Nancy",
+        "country_code": "FR",
+        "n_participants": 2,
+        "n_plane": 0,
+        "n_train": 2,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 2,
+            "n_plane": 0,
+            "n_train": 2
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2681,
+          40.8518
+        ]
+      },
+      "properties": {
+        "city": "Naples",
+        "country_code": "IT",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3823,
+          35.1856
+        ]
+      },
+      "properties": {
+        "city": "Nicosia",
+        "country_code": "CY",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2148,
+          53.1404
+        ]
+      },
+      "properties": {
+        "city": "Oldenburg",
+        "country_code": "DE",
+        "n_participants": 2,
+        "n_plane": 2,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2577,
+          51.752
+        ]
+      },
+      "properties": {
+        "city": "Oxford",
+        "country_code": "GB",
+        "n_participants": 4,
+        "n_plane": 0,
+        "n_train": 4,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "Workshops": {
+            "n_participants": 2,
+            "n_plane": 0,
+            "n_train": 2
+          },
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          },
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85340000000001
+        ]
+      },
+      "properties": {
+        "city": "Paris",
+        "country_code": "FR",
+        "n_participants": 10,
+        "n_plane": 2,
+        "n_train": 8,
+        "fraction_flying": 0.2,
+        "color": "#3300cc",
+        "events": {
+          "FMICS": {
+            "n_participants": 3,
+            "n_plane": 1,
+            "n_train": 2
+          },
+          "CONCUR": {
+            "n_participants": 4,
+            "n_plane": 0,
+            "n_train": 4
+          },
+          "Workshops": {
+            "n_participants": 2,
+            "n_plane": 1,
+            "n_train": 1
+          },
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4036,
+          43.708499999999994
+        ]
+      },
+      "properties": {
+        "city": "Pisa",
+        "country_code": "IT",
+        "n_participants": 3,
+        "n_plane": 3,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          },
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9711,
+          51.4562
+        ]
+      },
+      "properties": {
+        "city": "Reading",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743,
+          48.1111
+        ]
+      },
+      "properties": {
+        "city": "Rennes",
+        "country_code": "FR",
+        "n_participants": 4,
+        "n_plane": 0,
+        "n_train": 4,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 4,
+            "n_plane": 0,
+            "n_train": 4
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5609,
+          52.3791
+        ]
+      },
+      "properties": {
+        "city": "Rugby",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "Workshops": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0098,
+          49.2326
+        ]
+      },
+      "properties": {
+        "city": "Saarbr\u00fccken",
+        "country_code": "DE",
+        "n_participants": 2,
+        "n_plane": 2,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 2,
+            "n_plane": 2,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.044,
+          47.7994
+        ]
+      },
+      "properties": {
+        "city": "Salzburg",
+        "country_code": "AT",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4581,
+          31.2222
+        ]
+      },
+      "properties": {
+        "city": "Shanghai",
+        "country_code": "CN",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4043,
+          50.904
+        ]
+      },
+      "properties": {
+        "city": "Southampton",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "FMICS": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4043,
+          50.904
+        ]
+      },
+      "properties": {
+        "city": "Southampton UK",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2073,
+          -33.8678
+        ]
+      },
+      "properties": {
+        "city": "Sydney",
+        "country_code": "AU",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2087,
+          45.7489
+        ]
+      },
+      "properties": {
+        "city": "Timi\u0219oara",
+        "country_code": "RO",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917,
+          35.6895
+        ]
+      },
+      "properties": {
+        "city": "Tokyo",
+        "country_code": "JP",
+        "n_participants": 4,
+        "n_plane": 4,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 4,
+            "n_plane": 4,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3986,
+          43.7064
+        ]
+      },
+      "properties": {
+        "city": "Toronto",
+        "country_code": "CA",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7768,
+          45.6495
+        ]
+      },
+      "properties": {
+        "city": "Trieste",
+        "country_code": "IT",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "QEST+FORMATS": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6389,
+          59.8586
+        ]
+      },
+      "properties": {
+        "city": "Uppsala",
+        "country_code": "SE",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6371,
+          43.7269
+        ]
+      },
+      "properties": {
+        "city": "Urbino",
+        "country_code": "IT",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3721,
+          48.208499999999994
+        ]
+      },
+      "properties": {
+        "city": "Vienna",
+        "country_code": "AT",
+        "n_participants": 3,
+        "n_plane": 3,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 3,
+            "n_plane": 3,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3417,
+          48.9583
+        ]
+      },
+      "properties": {
+        "city": "Villetaneuse",
+        "country_code": "FR",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "Workshops": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0118,
+          52.2298
+        ]
+      },
+      "properties": {
+        "city": "Warsaw",
+        "country_code": "PL",
+        "n_participants": 1,
+        "n_plane": 1,
+        "n_train": 0,
+        "fraction_flying": 1.0,
+        "color": "#ff0000",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 1,
+            "n_train": 0
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7341,
+          53.3618
+        ]
+      },
+      "properties": {
+        "city": "Widnes",
+        "country_code": "GB",
+        "n_participants": 1,
+        "n_plane": 0,
+        "n_train": 1,
+        "fraction_flying": 0.0,
+        "color": "#0000ff",
+        "events": {
+          "CONCUR": {
+            "n_participants": 1,
+            "n_plane": 0,
+            "n_train": 1
+          }
+        }
+      }
+    }
+  ]
+}
